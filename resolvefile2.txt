@@ -1,0 +1,2 @@
+we created  resolvefile in resolve branch and resolvefile1 in resolve1 branch 
+to understanding merge conflicts. 
