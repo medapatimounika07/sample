@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 1234
+=======
+yogendra
+in this file the data used to be 1234 but now i am modifing it it 
+yogendra. this file i am using for stash command concept.
+>>>>>>> Stashed changes
