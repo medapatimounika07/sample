@@ -1,1 +1,2 @@
-ABCD
+Adcb
+i modified this file to understand merge conflicts concept.
