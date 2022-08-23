@@ -1,2 +1,6 @@
+
 Adcb
 i modified this file to understand merge conflicts concept.
+ABCD
+for the resolve feature branch  i am modifing this file
+>>>>>>> a8a37bca31164a61a0cb0ab94e1b181c76b84a06
